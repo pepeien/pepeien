@@ -1,16 +1,16 @@
-### Hi there 👋
+### Erick Frederick
+[![Linkedin Badge](https://img.shields.io/badge/-Erick_Frederick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-frederick-c//)](https://www.linkedin.com/in/erick-frederick-c/) [![Gmail Badge](https://img.shields.io/badge/-efrederick@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:efrederick@gmail.com)](mailto:efrederick@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-<!--
-**pepeyen/pepeyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Learning :** Front-end Development | Open-Source
+-  **Languages :** C#, Javascript, React
+-  **Hobbies :** Gamming & Music :headphones:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+![github stats](https://github-readme-stats.vercel.app/api?username=pepeyen&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### This portfolio was coded with React.JS
+
+Kudos to https://github.com/srIsaac/srIsaac for designing this awesome `Readme.md`
