@@ -1,5 +1,5 @@
 ### Erick Frederick
-[![Linkedin Badge](https://img.shields.io/badge/-Erick_Frederick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-frederick-c//)](https://www.linkedin.com/in/erick-frederick-c/) [![Gmail Badge](https://img.shields.io/badge/-efrederick@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:efrederick@gmail.com)](mailto:efrederick@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Erick_Frederick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-frederick-c//)](https://www.linkedin.com/in/erick-frederick-c/) [![Gmail Badge](https://img.shields.io/badge/-efrederick.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:efrederick@gmail.com)](mailto:efrederick@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
