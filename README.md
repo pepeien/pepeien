@@ -4,11 +4,11 @@
 ### About
 
 -  **Learning :** Front-end Development | Open-Source
--  **Languages :** C#, Javascript, React
+-  **Languages :** C#, Javascript (React.JS)
 -  **Hobbies :** Gamming & Music :headphones:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pepeyen&show_icons=true)
 
 
-Kudos to https://github.com/srIsaac/srIsaac for designing this awesome `Readme.md`
+Kudos to https://github.com/srIsaac for designing this awesome `Readme.md`
