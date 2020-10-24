@@ -4,12 +4,11 @@
 ### About
 
 -  **Learning :** Front-end Development | Open-Source
--  **Languages :** 
-![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pepeyen&layout=compact&show_icons=true&theme=tokyonight)
 -  **Hobbies :** Gamming & Music :headphones:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pepeyen&show_icons=true&theme=tokyonight)
-
+<br></br>
+![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pepeyen&layout=compact&show_icons=true&theme=tokyonight)
 
 Kudos to https://github.com/srIsaac for designing this awesome `Readme.md`
