@@ -4,7 +4,8 @@
 ### About
 
 -  **Learning :** Front-end Development | Open-Source
--  **Languages :** ![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pepeyen&layout=compact&show_icons=true&theme=tokyonight)
+-  **Languages :** 
+![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pepeyen&layout=compact&show_icons=true&theme=tokyonight)
 -  **Hobbies :** Gamming & Music :headphones:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
