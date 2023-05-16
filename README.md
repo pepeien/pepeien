@@ -11,4 +11,4 @@
 <br></br>
 ![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ericodesu&layout=compact&show_icons=true&theme=tokyonight)
 
-Kudos to https://github.com/srIsaac for designing this awesome `Readme.md`
+Kudos to https://github.com/isaCampos for designing this awesome `Readme.md`
