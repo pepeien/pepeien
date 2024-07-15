@@ -4,7 +4,7 @@
 ### About
 
 -  **Learning :** Web and Game Development | Open-Source
--  **Hobbies :** Gamming & Music :headphones:
+-  **Hobbies :** Gaming & Music :headphones:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=pepeien&show_icons=true&theme=tokyonight)
