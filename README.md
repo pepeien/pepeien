@@ -3,10 +3,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Web and Game Development | Open-Source
+-  **Learning :** Web and Game Development
 -  **Hobbies :** Gaming & Music :headphones:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Skills
 
-![github stats](https://github-readme-stats.vercel.app/api?username=pepeien&show_icons=true&theme=tokyonight&include_all_commits=true&hide_title=true)
-<br></br>
 ![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pepeien&layout=compact&show_icons=true&theme=tokyonight&hide_title=true)
