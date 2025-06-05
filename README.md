@@ -5,7 +5,3 @@
 
 -  **Learning :** Web and Game Development
 -  **Hobbies :** Gaming & Music :headphones:
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Skills
-
-![github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pepeien&layout=compact&show_icons=true&theme=tokyonight&hide_title=true)
